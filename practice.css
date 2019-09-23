@@ -13,7 +13,7 @@ a:hover {
 @media only screen and (max-width: 500px) 
 {body
     {background-color: rgb(168, 224, 243);} }
-h1 {font-size: 40px; color: rgb(22, 70, 3)
+h1 {font-size: 40px; color: rgb(22, 70, 3; align: center;)
 }
 h2 {font-size: 30px;
 }
