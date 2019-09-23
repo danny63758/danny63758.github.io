@@ -12,4 +12,8 @@ a:hover {
 }
 @media only screen and (max-width: 500px) 
 {body
-    {background-color: lightblue;} }
+    {background-color: rgb(168, 224, 243);} }
+h1 {font-size: 40px;
+}
+h2 {font-size: 30px;
+}
